@@ -9,7 +9,7 @@ body {
 
 main {
   margin: 0 auto;
-  width: 500px;
+  inline-size: 500px;
   padding: 20px;
   box-shadow: 3px 3px 10px rgba(48, 47, 47, 0.747);
   background-color: #f5f5f5;
